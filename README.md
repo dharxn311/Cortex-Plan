@@ -1,6 +1,6 @@
 # Cortex Plan: Your Minimalist Exam Planner
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dharxn311/Cortex-Plan)
 
 A minimalist, visually-driven exam planner to help students organize subjects, exams, and study schedules with effortless elegance.
 
@@ -106,7 +106,7 @@ This application is designed for seamless deployment to Cloudflare's global netw
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dharxn311/Cortex-Plan)
 
 ## License
 
